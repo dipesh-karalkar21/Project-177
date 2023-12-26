@@ -1,0 +1,28 @@
+body{
+    background-color: #66e8d8;
+    flex: 1;
+}
+
+
+.clickable{
+    height: 50px;
+    width: 50px;
+    border-color: blue;
+    justify-content: space-evenly;
+    margin: 1px;
+    background-color: white;
+    color: black;
+    display: inline-flex;
+}
+
+#alphabets{
+    width: 100%;
+    height: auto;
+}
+
+.row{
+    display: flexbox;
+    justify-content: space-evenly;
+    align-self: center;
+    margin: 5px;
+}
